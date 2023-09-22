@@ -1,3 +1,5 @@
+![Header](Imagenes-readme/header-tarjetas.jpg)
+
 # BDD Tarjetas
 
 BDD Tarjetas es un proyecto realizado para la materia Gestión y administración de bases de datos del tercer año de la carrera Licenciatura en sistemas de la Universidad Nacional General Sarmiento.
