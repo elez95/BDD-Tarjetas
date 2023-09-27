@@ -90,3 +90,5 @@ Una de las diferencias entre los modelos de datos SQL y NoSQL radica en la forma
 Otra diferencia es la manera de crear estructuras de datos. Por un lado tenemos la base de datos SQL donde se crean tablas que pueden estar relacionadas con otras. Y por el otro lado, la base de datos NoSQL se modela con elementos clave/valor.
 
 ## Logros
+
+Este proyecto fue muy importante para profundizar e implementar los conceptos sobre la gestión y administración de una base de datos: la creación de consultas, usar stored procedures y triggers, y la gestión de tiempo y responsabilidades en el equipo.
