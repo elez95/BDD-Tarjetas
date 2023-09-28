@@ -61,7 +61,7 @@ Las funciones creadas tienen como objetivo vincular al usuario con la base de da
 
 - autorizar_compra
 
-Recibe los datos de una posible compra (número de tarjeta, código de seguridad, número de comercio, monto a pagar). La función retorna <i>true</i> si se aprueba y <i>false</i> si ocurro lo contrario.
+Recibe los datos de una posible compra (número de tarjeta, código de seguridad, número de comercio, monto a pagar). La función retorna <i>true</i> si se aprueba y <i>false</i> si ocurrió lo contrario.
 
 Para autorizar una compra la función controla que se cumplan los siguientes requisitos: La tarjeta debe existir y debe estar en vigencia. La compra no debe superar el límite de compra (para eso se le suma las anteriores compras). La tarjeta no debe estar suspendida, ni encontrarse anulada, para eso agregamos una condición más que verifica ese estado.
 
